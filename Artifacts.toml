@@ -1,34 +1,34 @@
 [[iceberg_rust_ffi]]
 arch = "aarch64"
-git-tree-sha1 = "899b223c1d73d9e1ddb517628f96db7c1ca099b0"
+git-tree-sha1 = "be92dcad70c77dd9737b97a7196db7c9b2fb36b9"
 os = "macos"
 
     [[iceberg_rust_ffi.download]]
-    sha256 = "aac8c07e46c77822254adb652bf4d66472657251c7c2248af17b5a493b3ca336"
-    url = "https://github.com/JuliaBinaryWrappers/iceberg_rust_ffi_jll.jl/releases/download/iceberg_rust_ffi-v0.3.1+0/iceberg_rust_ffi.v0.3.1.aarch64-apple-darwin.tar.gz"
+    sha256 = "9a4a5268c8e8dc93e139aee93a45c145dda366575408b8c4110983c18c061074"
+    url = "https://github.com/JuliaBinaryWrappers/iceberg_rust_ffi_jll.jl/releases/download/iceberg_rust_ffi-v0.4.0+0/iceberg_rust_ffi.v0.4.0.aarch64-apple-darwin.tar.gz"
 [[iceberg_rust_ffi]]
 arch = "aarch64"
-git-tree-sha1 = "bfb7f47ed1d06b4904fc01ad602fa8c4df63b750"
+git-tree-sha1 = "4e01159a01a322d9116405131aafb508a7fceaf2"
 libc = "glibc"
 os = "linux"
 
     [[iceberg_rust_ffi.download]]
-    sha256 = "07aba0bd9c6d27752a43646c17e1ee0082c98612926bef7f71c25bf00007c7f6"
-    url = "https://github.com/JuliaBinaryWrappers/iceberg_rust_ffi_jll.jl/releases/download/iceberg_rust_ffi-v0.3.1+0/iceberg_rust_ffi.v0.3.1.aarch64-linux-gnu.tar.gz"
+    sha256 = "d878219555890f5c26afe84de8b28997519d539e931b5b806861f60c68fd4dcd"
+    url = "https://github.com/JuliaBinaryWrappers/iceberg_rust_ffi_jll.jl/releases/download/iceberg_rust_ffi-v0.4.0+0/iceberg_rust_ffi.v0.4.0.aarch64-linux-gnu.tar.gz"
 [[iceberg_rust_ffi]]
 arch = "x86_64"
-git-tree-sha1 = "0922bb5952a77afb0ca927f66703e6fe77699e57"
+git-tree-sha1 = "7b4ab377680b007ee8fd22f719f52151949a501c"
 os = "macos"
 
     [[iceberg_rust_ffi.download]]
-    sha256 = "3084ec03c12dd8a1be8785b62d8e9ba50f40e81267e61521ad8bc2c1fc4dd1f1"
-    url = "https://github.com/JuliaBinaryWrappers/iceberg_rust_ffi_jll.jl/releases/download/iceberg_rust_ffi-v0.3.1+0/iceberg_rust_ffi.v0.3.1.x86_64-apple-darwin.tar.gz"
+    sha256 = "8bd733ca1b2b685b3187281bfdb2c96d2329f1b5ae9b35ac6fc369589424db1d"
+    url = "https://github.com/JuliaBinaryWrappers/iceberg_rust_ffi_jll.jl/releases/download/iceberg_rust_ffi-v0.4.0+0/iceberg_rust_ffi.v0.4.0.x86_64-apple-darwin.tar.gz"
 [[iceberg_rust_ffi]]
 arch = "x86_64"
-git-tree-sha1 = "2f631ba403e70af23c57884ac82abf3b52d1bf91"
+git-tree-sha1 = "6c56d782540a09a99be2736581c8ae929da8296e"
 libc = "glibc"
 os = "linux"
 
     [[iceberg_rust_ffi.download]]
-    sha256 = "c6e3a83449087a31228a62343776cab08dcfa5ffd4c6bbcc663986e0d6a643c0"
-    url = "https://github.com/JuliaBinaryWrappers/iceberg_rust_ffi_jll.jl/releases/download/iceberg_rust_ffi-v0.3.1+0/iceberg_rust_ffi.v0.3.1.x86_64-linux-gnu.tar.gz"
+    sha256 = "70c6501ffe6501e4b1e4f6a6ff56f0d5dbe297861e5e40f1d65ab6b6bf6021bc"
+    url = "https://github.com/JuliaBinaryWrappers/iceberg_rust_ffi_jll.jl/releases/download/iceberg_rust_ffi-v0.4.0+0/iceberg_rust_ffi.v0.4.0.x86_64-linux-gnu.tar.gz"
